@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adda704d-4694-4aa5-90cd-cfa2f6c190f5" name="Changes" comment="" />
+    <list default="true" id="adda704d-4694-4aa5-90cd-cfa2f6c190f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/ru/gstu/mockgen/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/ru/gstu/mockgen/JsonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/ru/gstu/mockgen/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/gstu/mockgen/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/gstu/mockgen/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/ru/gstu/mockgen/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/ru/gstu/mockgen/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +25,28 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "starii992"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/egormikhajlov/mock-data-generator.git",
+    "accountId": "834c2e74-9db7-4166-a4ef-f6768bfb88b7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 3
@@ -26,8 +58,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.AppTest.executor": "Run",
+    "Gradle.mock-data-generator:app [:app:ru.gstu.mockgen.App.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>

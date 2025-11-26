@@ -1,0 +1,71 @@
+[ {
+  "name" : "Сергей",
+  "surname" : "Григорьев",
+  "age" : 64,
+  "email" : "сергей.григорьев@mail.ru",
+  "phone" : "+3752134877960",
+  "address" : "ул. LjHcq, д. 96"
+}, {
+  "name" : "Дмитрий",
+  "surname" : "Иванов",
+  "age" : 31,
+  "email" : "дмитрий.иванов@outlook.com",
+  "phone" : "+3756527601429",
+  "address" : "ул. jMtZs, д. 33"
+}, {
+  "name" : "Анна",
+  "surname" : "Федоров",
+  "age" : 45,
+  "email" : "анна.федоров@hotmail.com",
+  "phone" : "+3753800566062",
+  "address" : "ул. qBvsU, д. 96"
+}, {
+  "name" : "Анна",
+  "surname" : "Иванов",
+  "age" : 75,
+  "email" : "анна.иванов@mail.ru",
+  "phone" : "+3759012239422",
+  "address" : "ул. VEaAn, д. 29"
+}, {
+  "name" : "Мария",
+  "surname" : "Морозов",
+  "age" : 23,
+  "email" : "мария.морозов@gmail.com",
+  "phone" : "+3759916029917",
+  "address" : "ул. vddTg, д. 57"
+}, {
+  "name" : "Татьяна",
+  "surname" : "Сидоров",
+  "age" : 72,
+  "email" : "татьяна.сидоров@gmail.com",
+  "phone" : "+3752892365029",
+  "address" : "ул. sCYlx, д. 57"
+}, {
+  "name" : "Николай",
+  "surname" : "Морозов",
+  "age" : 74,
+  "email" : "николай.морозов@yandex.ru",
+  "phone" : "+3757415844152",
+  "address" : "ул. Aulfw, д. 95"
+}, {
+  "name" : "Дмитрий",
+  "surname" : "Федоров",
+  "age" : 30,
+  "email" : "дмитрий.федоров@mail.ru",
+  "phone" : "+3759911288590",
+  "address" : "ул. QJecw, д. 59"
+}, {
+  "name" : "Иван",
+  "surname" : "Васильев",
+  "age" : 18,
+  "email" : "иван.васильев@hotmail.com",
+  "phone" : "+3750073572106",
+  "address" : "ул. WyXKB, д. 35"
+}, {
+  "name" : "Татьяна",
+  "surname" : "Васильев",
+  "age" : 48,
+  "email" : "татьяна.васильев@mail.ru",
+  "phone" : "+3757150099504",
+  "address" : "ул. KuZnj, д. 27"
+} ]
