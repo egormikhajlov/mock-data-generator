@@ -1,0 +1,1 @@
+[![CI](https://github.com/egormikhajlov/mock-data-generator/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/egormikhajlov/mock-data-generator/actions/workflows/ci.yml)
